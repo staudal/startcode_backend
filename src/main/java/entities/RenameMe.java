@@ -54,7 +54,7 @@ public class RenameMe implements Serializable {
         this.dummyStr2 = dummyStr2;
     }
     
-    
+    // This is a comment
     
 
    
